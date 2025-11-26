@@ -1,14 +1,4 @@
-# Wizarding Workshop IC
-
-> “Dobby is a good elf… Dobby does as he is told…”
->
-> Dobby has been up all night in the cold rain, carefully crafting this IC for the great and powerful Slytherin who assigned it. While other elves saw their families over the holidays, Dobby was here, muttering about `attr_readers` and `Hash`es, trying not to drip on the keyboard.
->
-> Please, kind student, be gentle with Dobby’s work. Dobby tried very hard to make the spells, wizards, quests, and guilds behave exactly as the tests demand. If anything is confusing, Dobby begs you: do not be angry — only refactor.
->
-> If this IC displeases its Slytherin master, Dobby will be terribly punished with even more Ruby. So please write your tests, follow the interaction patterns, and make Dobby proud.
-
----
+# Wizard Workshop IC
 
 ## Setup & Submission
 
